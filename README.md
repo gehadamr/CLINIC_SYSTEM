@@ -1,0 +1,1 @@
+A comprehensive clinic management system developed in C, featuring an interactive interface for Admin and User modes. Admins can add, edit, and manage patient records and reservations, while users can view patient details and today's reservations. Includes password protection for admin access and efficient memory management.
